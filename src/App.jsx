@@ -10,7 +10,7 @@ import 'react-toastify/dist/ReactToastify.css';
 
 
 const App = () => {
-  const url="https://zikhgo-backend.onrender.com/";
+  const url="https://zikhgo-backend.onrender.com";
   return (
     <div>
        <ToastContainer/>
